@@ -1,0 +1,6 @@
+{
+  "name": "Rhythm 3D",
+  "description": "An immersive 3D rhythm music game featuring ABCDEFG lane notes, dynamic timing glows, and a visual 3D synth tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
